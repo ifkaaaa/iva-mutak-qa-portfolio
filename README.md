@@ -38,7 +38,7 @@ _These bugs are for training purposes and may not reflect real issues in the app
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Excel / Google Sheets  
 - Brave / Chrome browsers  
 - GitHub for documentation  
